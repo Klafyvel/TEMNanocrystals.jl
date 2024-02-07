@@ -1,0 +1,2 @@
+[Gtk4]
+EGL_vendorlib_dirs = "/usr/share/glvnd/egl_vendor.d"
